@@ -1,0 +1,4 @@
+#Wed Oct 10 23:00:36 CST 2018
+base.0=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

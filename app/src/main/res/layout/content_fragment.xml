@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <wangjin.com.beijingnews.view.NoScrollViewPager
+        android:id="@+id/viewpage"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </wangjin.com.beijingnews.view.NoScrollViewPager>
+    <RadioGroup
+        android:layout_gravity="bottom"
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/bottom_tab_bg">
+        <RadioButton
+        style="@style/bottom_tag_style"
+        android:id="@+id/rb_home"
+            android:checked="true"
+        android:drawableTop="@drawable/rb_home_drawable_selector"
+        android:text="主页"
+        android:gravity="center"/>
+        <RadioButton
+            style="@style/bottom_tag_style"
+            android:id="@+id/rb_newscenter"
+            android:drawableTop="@drawable/rb_newscenter_drawable_selector"
+            android:text="新闻"
+            android:gravity="center"/>
+        <RadioButton
+            style="@style/bottom_tag_style"
+            android:id="@+id/rb_smartservices"
+            android:drawableTop="@drawable/rb_smartservice_drawable_selector"
+            android:text="智慧"
+            android:gravity="center"/>
+        <RadioButton
+            style="@style/bottom_tag_style"
+            android:id="@+id/rb_gvaffair"
+            android:drawableTop="@drawable/rb_govaffair_drawable_selector"
+            android:text="政要"
+            android:gravity="center"/>
+        <RadioButton
+            style="@style/bottom_tag_style"
+            android:id="@+id/rb_setting"
+            android:drawableTop="@drawable/rb_setting_drawable_selector"
+            android:text="设置"
+            android:gravity="center"/>
+    </RadioGroup>
+
+
+</LinearLayout>

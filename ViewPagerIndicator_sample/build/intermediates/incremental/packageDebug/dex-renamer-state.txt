@@ -1,0 +1,7 @@
+#Wed Oct 10 23:00:36 CST 2018
+base.0=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b849785b51e5d28f5a6abc5b5d1f5f8399735f70
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8493d4bc93f32fb418f880439470db07ad5e854a\\classes.dex
+base.1=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8493d4bc93f32fb418f880439470db07ad5e854a
+file.0=E\:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b849785b51e5d28f5a6abc5b5d1f5f8399735f70\\classes.dex

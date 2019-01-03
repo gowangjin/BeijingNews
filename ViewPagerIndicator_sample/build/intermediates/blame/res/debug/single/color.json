@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\StudioWorkspace\\BeijingNews\\ViewPagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    }
+]
